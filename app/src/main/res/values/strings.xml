@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Media de Notas</string>
+    <string name="nota2">Digite a 2° nota</string>
+    <string name="nota1">Digite a 1° nota</string>
+    <string name="nFaltas">Digite o número de faltas</string>
+    <string name="cal">Calcular media</string>
+</resources>
